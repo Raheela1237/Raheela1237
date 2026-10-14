@@ -1,8 +1,7 @@
 
 Hi I'm Raheela Bhutto 
-I'm working on icreativze internship 
-my skills: c java python database cit computer operator freelancing course canva Google ai essential 
-
+BS Artificial Intelligence Student
+Welcome to my GitHub profile! I'm a passionate learner exploring Python programming, Artificial Intelligence, and software development.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aiprogrammer45@gmail.com) 
